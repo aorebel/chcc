@@ -1,0 +1,6 @@
+[26-Sep-2018 01:56:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chcc/public_html/app/functions.php:673) in /home/chcc/public_html/app/session.php on line 2
+[26-Sep-2018 01:59:30 UTC] PHP Warning:  Division by zero in /home/chcc/public_html/methods/view_student_profile.php on line 140
+[27-Sep-2018 01:21:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chcc/public_html/app/functions.php:674) in /home/chcc/public_html/app/session.php on line 2
+[27-Sep-2018 01:22:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chcc/public_html/app/functions.php:674) in /home/chcc/public_html/app/session.php on line 2
+[27-Sep-2018 01:23:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chcc/public_html/app/functions.php:674) in /home/chcc/public_html/app/session.php on line 2
+[02-Oct-2018 11:46:13 UTC] PHP Warning:  Division by zero in /home/chcc/public_html/methods/view_student_profile.php on line 140

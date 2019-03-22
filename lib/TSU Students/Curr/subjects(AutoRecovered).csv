@@ -1,0 +1,697 @@
+1,Eng 0,English Plus,ENG,I,1st Sem,3,0,No,0,Regular
+2,Eng 1,Study & Thinking Skills,ENG,I,1st Sem,3,0,Yes,0,Regular
+3,Fil 1,Komunikasyon Akademyang Filipino,ENG,I,1st Sem,3,0,Yes,0,Regular
+4,Math 1,Fundamentals of Math,ENG,I,1st Sem,3,0,Yes,0,Regular
+5,Sci  1,Biological Science,ENG,I,1st Sem,3,0,Yes,0,Regular
+6,Psy 1,General Psychology,ENG,I,1st Sem,3,0,Yes,0,Regular
+7,SS 1A,"Phil. History, Roots & Dev't",ENG,I,1st Sem,3,0,No,0,Regular
+8,Hum 1,Introduction to Arts,ENG,I,1st Sem,3,0,No,0,Regular
+9,PE 1,Physical Fitness,ENG,I,1st Sem,2,0,No,0,Regular
+10,NSTP,Civil Welfare Service Training 1,ENG,I,1st Sem,3,0,Yes,0,Regular
+11,ICT,Information Communication Technology,ENG,I,2nd Sem,3,1,No,0,With Lab
+12,Eng 2,Development Basic Research & Writing Skills,ENG,I,2nd Sem,3,0,Yes,Eng 1,Regular
+13,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,ENG,I,2nd Sem,3,0,Yes,Fil 1,Regular
+14,Math 2,Contemporary Mathematics,ENG,I,2nd Sem,3,0,No,Math 1,Regular
+15,Sci  2,Earth Science,ENG,I,2nd Sem,3,0,No,Sci 1,Regular
+16,Ed/TC 1,Child & Adolescent Development,ENG,I,2nd Sem,3,0,Yes,Psy 1,Regular
+17,SPE Eng 1,Structure of English,ENG,I,2nd Sem,3,0,No,0,Regular
+18,SPE Eng 2,Lang Curriculum for Secondary School,ENG,I,2nd Sem,3,0,Yes,0,Regular
+19,PE 2,Fundamentals of Rhythmic Activities,ENG,I,2nd Sem,2,0,No,0,Regular
+20,NSTP 2,Civic Welfare Service Training 2,ENG,I,2nd Sem,3,0,No,0,Regular
+21,Ed/MST 1,Educational Technology 1,ENG,I,Summer,3,0,Yes,0,Regular
+22,Ed/TC 4,Social Dimensions of Educational,ENG,I,Summer,3,0,Yes,Ed/TC 1,Regular
+23,Ed/MST 4,Principle of Teaching 1,ENG,I,Summer,3,0,Yes,0,Regular
+24,Eng 3,Speech & Oral Communication,ENG,II,1st Sem,3,0,No,Eng 2,Regular
+25,Fil 3,Masining na Pagpapahayag,ENG,II,1st Sem,3,0,No,Fil 2,Regular
+26,Theo 1,Salvation History,ENG,II,1st Sem,3,0,No,0,Regular
+27,Ed/TC 2,Facilitating and Learning (w/ FS 1),ENG,II,1st Sem,3,0,Yes,Ed/TC 1,Regular
+28,Ed/FS 1,FS 1Leamer's Development & Environment,ENG,II,1st Sem,1,0,Yes,0,Field Study
+29,Ed/MST 5,Principles of Teaching 2,ENG,II,1st Sem,3,0,Yes,Ed/MST 4,Regular
+30,Ed/FS 2,FS 2 - Experiencing the Teaching & Learning Process,ENG,II,1st Sem,3,0,Yes,0,Field Study
+31,SPE Eng 3,The Teaching of Speaking,ENG,II,1st Sem,3,0,No,SPE Eng 2,Regular
+32,SPE Eng 4,English and American Lit,ENG,II,1st Sem,3,0,No,2nd yr standing,Regular
+33,SPE Eng 5,Mythology and Folkdance,ENG,II,1st Sem,3,0,Yes,2nd yr standing,Regular
+34,PE 3,Individual * Dual Games & Spors,ENG,II,1st Sem,2,0,No,0,Regular
+35,SS 1,Philippine Goverment & New Constitution,ENG,II,2nd Sem,3,0,No,0,Regular
+36,Theo 2,Psychology of Christian Personality,ENG,II,2nd Sem,3,0,No,0,Regular
+37,Ed/MST 6,Assessment of Student Learnig 1,ENG,II,2nd Sem,3,0,Yes,Ed/MST 3,Regular
+38,Ed/MST 2,Educational Technology 2,ENG,II,2nd Sem,3,0,No,Ed/MST 1,Regular
+39,Ed/FS 3,FS3-Technology in the Learning Environment,ENG,II,2nd Sem,1,0,Yes,0,Field Study
+40,Ed/MST 3,Curriculum Development,ENG,II,2nd Sem,3,0,No,Ed/MST 5,Regular
+41,Ed/FS 4,FS 4 - Exploring the Curriculum,ENG,II,2nd Sem,1,0,Yes,0,Field Study
+42,SPE Eng 6,Introduction to Linguistics,ENG,II,2nd Sem,3,0,No,SPE Eng  5,Regular
+43,SPE Eng 7,Literary Criticism,ENG,II,2nd Sem,3,0,No,SPE Eng  5,Regular
+44,SPE Eng 8,The Teaching of Listening & Reading,ENG,II,2nd Sem,3,0,Yes,SPE Eng  5,Regular
+45,PE 4,Recreational Activities,ENG,II,2nd Sem,2,0,No,0,Regular
+46,Lit 1,Philippine Literature,ENG,III,1st Sem,3,0,No,0,Regular
+47,Hum 2,Intro to Philosophy & Ethics (SS2),ENG,III,1st Sem,3,0,No,0,Regular
+48,FundRes,Fundamentals of Research,ENG,III,1st Sem,3,0,No,0,Regular
+49,Ed/SPT 1,Spl Tpic (Use of PopILAR Media in Tech),ENG,III,1st Sem,1,0,No,0,Regular
+50,Ed/MST 7,Assessment of Student Learnign 2,ENG,III,1st Sem,3,0,No,Ed/MST 6,Regular
+51,Ed/FS 5,FS  5-Learning Assessment Strategies,ENG,III,1st Sem,1,0,Yes,0,Field Study
+52,SPE Eng 9,Afro-Asian Lit,ENG,III,1st Sem,3,0,No,SPE Eng 8,Regular
+53,SPE Eng 10,Teaching of Lit,ENG,III,1st Sem,3,0,No,SPE Eng 8,Regular
+54,SPE Eng 11,Language & Lit Assessment,ENG,III,1st Sem,3,0,No,SPE Eng 8,Regular
+55,SPE Eng 12,Preparation & Evaluation of Inst. Mat.,ENG,III,1st Sem,3,0,Yes,3rd yr Standing,Regular
+56,Lit 2,World Literature,ENG,III,2nd Sem,3,0,No,0,Regular
+57,SS5,"Rizal's Life, Work & Writings",ENG,III,2nd Sem,3,0,No,0,Regular
+58,Ed/SPT 2,Specialtopic 2 (Environment Education),ENG,III,2nd Sem,1,0,No,0,Regular
+59,Ed/MST 8 ,Development Reading 1,ENG,III,2nd Sem,3,0,No,3rd yr standing,Regular
+60,Ed/TC 3,The Teaching Profession,ENG,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+61,Ed/FS 6,FS - On Becoming Solving,ENG,III,2nd Sem,1,0,Yes,0,Field Study
+62,SPE Eng 13,Language Research,ENG,III,2nd Sem,3,0,No,SPE Eng 12,Regular
+63,SPE Eng 14,Campus Journalism,ENG,III,2nd Sem,3,0,No,3rd yr standing,Regular
+64,SPE Eng 15,Remedial Introduction in English,ENG,III,2nd Sem,3,0,No,3rd yr standing,Regular
+65,SPE Eng 16,Crearive Language,ENG,III,2nd Sem,3,0,Yes,SPE Eng 12,Regular
+66,SS3,Prin. Of Eco. w/ Agrarian Reform & Tax,ENG,IV,1st Sem,3,0,No,0,Regular
+67,SS6,"Current Issues (w/HIV,AIDS,SARS, Gender & Peace Education)",ENG,IV,1st Sem,3,0,No,0,Regular
+68,Eng 21A,English for Specific Purpose (Call Center),ENG,IV,1st Sem,3,0,No,0,Regular
+69,Ed/SPT 3,Special Topic 3 (Collaborative Learning),ENG,IV,1st Sem,1,0,No,0,Regular
+70,SS4,"Sociology & Family Planning (w/ Population, Drug Addiction, Volunteerism & Anti-Smoking)",ENG,IV,1st Sem,3,0,No,0,Regular
+71,SPE Eng 17,English for Specific Purpose (Call Center),ENG,IV,1st Sem,3,0,No,SPE Eng 16,Regular
+72,SPE Eng 18,Speech & Stage Arts,ENG,IV,1st Sem,3,0,No,4th yr Standing,Regular
+73,SPE Eng 19,Introduction to Stylistics,ENG,IV,1st Sem,3,0,No,4th yr Standing,Regular
+74,SPE Eng 20,Translation and editing,ENG,IV,1st Sem,3,0,No,4th yr Standing,Regular
+75,Ed/Teach,Practice Teaching,ENG,IV,2nd Sem,6,0,No,FS 1 - 6,Practicum
+76,Eng1,Study & Thinking Skills,BSC,I,1st Sem,3,0,Yes,0,Regular
+77,Fil 1,Komunikasyon sa Akademikong Filipino,BSC,I,1st Sem,3,0,Yes,0,Regular
+78,Math 1,College Algebra,BSC,I,1st Sem,3,0,Yes,0,Regular
+79,SS 1,Philippine Constitution,BSC,I,1st Sem,3,0,No,0,Regular
+80,Psy 1,"General Psychology,w/ HIV/SARS",BSC,I,1st Sem,3,0,No,0,Regular
+81,SCE 111,Introduction to Criminology & Psychology of Crime,BSC,I,1st Sem,3,0,Yes,0,Regular
+82,LEA 111,Police Organization &Admin With Police Planning,BSC,I,1st Sem,3,0,Yes,0,Regular
+83,PE 1,Fundamentals of Martial Arts(Karate),BSC,I,1st Sem,2,0,Yes,0,Regular
+84,NSTP 1,Civil Welfare Service Training 1,BSC,I,1st Sem,3,0,Yes,0,Regular
+85,Eng 2,Speech and Oral Communication,BSC,I,2nd Sem,3,0,Yes,Eng 1,Regular
+86,Fil 2,Pagbasa't Pagsulat tungo sa Pananaliksik,BSC,I,2nd Sem,3,0,No,Fil 1,Regular
+87,Math 2,Plane Trigonometry,BSC,I,2nd Sem,3,0,No,Math 1,Regular
+88,SS 2,Society and culture with Population Education,BSC,I,2nd Sem,3,0,No,0,Regular
+89,SS 3,Prin. Of Eco. w/ Agrarian reform,BSC,I,2nd Sem,3,0,No,0,Regular
+90,SCE 122,Philippine Criminal Justice System,BSC,I,2nd Sem,3,0,Yes,SCE 111,Regular
+91,LEA 122,Industrial Security & Society Management,BSC,I,2nd Sem,3,0,Yes,LEA 111,Regular
+92,PE 2,Learning Technique(Judo),BSC,I,2nd Sem,2,0,No,PE 1,Regular
+93,NSTP 2,Civil Welfare Service Training 2,BSC,I,2nd Sem,3,0,No,NSTP 1,Regular
+94,Eng 3,Technical Report Writing 1,BSC,II,1st Sem,3,0,No,Eng 2,Regular
+95,CHM 1,General Chemistry(Lec-3/Lab-2),BSC,II,1st Sem,5,0,Yes,2nd Yr. Standing,Regular
+96,LEA 213,Police Patrol Operation with Police Communication System,BSC,II,1st Sem,3,0,Yes,LEA 122,Regular
+97,CDI 211,Fundamentals of Criminal Investigation,BSC,II,1st Sem,3,0,Yes,SCE 122,Regular
+98,CRM 211,Personal Indentification,BSC,II,1st Sem,4,0,Yes,2nd Yr. Standing,Regular
+99,CLJ 211,Criminal Law-Book 1,BSC,II,1st Sem,3,0,Yes,2nd Yr. Standing,Regular
+100,PE 3,First Aid & Water Safety,BSC,II,1st Sem,2,0,No,2nd Yr. Standing,Regular
+101,THEO 1,Theology Salvation History,BSC,II,1st Sem,3,0,No,0,Regular
+102,Eng 4,Technical Writing 2,BSC,II,2nd Sem,3,0,No,Eng 23A,Regular
+103,CHM 222,Tornalo Chem & Technology(Lec-3/Lab-2),BSC,II,2nd Sem,5,0,No,CRM 211,Regular
+104,LEA 214,"Police,Personnel & Records Management",BSC,II,2nd Sem,3,0,No,LEA 213,Regular
+105,CDI 222,Traffic Management & Records Management,BSC,II,2nd Sem,3,0,No,CDI 211,Regular
+106,CRM 222,Police Photography,BSC,II,2nd Sem,4,0,No,CRM 211,Regular
+107,CLJ 222,Criminal Law Book 11,BSC,II,2nd Sem,,0,No,CLJ 211,Regular
+108,PE 4,Markemanship & Cmbi. Shooting,BSC,II,2nd Sem,2,0,No,2nd Year Standing,Regular
+109,Comp Ed1,Computer Education 1,BSC,II,2nd Sem,3,1,Yes,0,With Lab
+110,PLO 2311,Formal Logic,BSC,II,Summer,3,0,No,0,Regular
+111,SS 5,"Rizal's Life, Works and Writings",BSC,II,Summer,3,0,No,0,Regular
+112,Comp Ed 2,Computer Education 2,BSC,II,Summer,3,1,No,Comp Ed 1,With Lab
+113,CDI 313,Special Crime Investigation,BSC,III,1st Sem,3,0,No,0,Regular
+114,CRM 313,Forerisic Ballestics,BSC,III,1st Sem,4,0,No,0,Regular
+115,SCE 313,Police Ethics & Value with Police-Community Relations,BSC,III,1st Sem,3,0,No,0,Regular
+116,CLJ 413,Criminal Procedure,BSC,III,1st Sem,3,0,No,0,Regular
+117,COR311,Institutional Corrections,BSC,III,1st Sem,3,0,No,0,Regular
+118,Lit 1,Philippine Literature,BSC,III,1st Sem,3,0,No,0,Regular
+119,CDI 324,Organized Crime Investigation,BSC,III,2nd Sem,3,0,No,0,Regular
+120,CRM 324,Questioned Documents Exam,BSC,III,2nd Sem,4,0,No,0,Regular
+121,SCE 325,Human Behavior & Crime Management,BSC,III,2nd Sem,3,0,No,0,Regular
+122,SCE 326,"Criminological Research ,Sem,OnPolice Problem & Statistics",BSC,III,2nd Sem,3,0,No,0,Regular
+123,COR 322,Non-Institutional Corrections,BSC,III,2nd Sem,3,0,No,0,Regular
+124,SS 1A,Philippine History,BSC,III,2nd Sem,3,0,No,0,Regular
+125,LEA 415,Defensive Drivng,BSC,III,2nd Sem,2,0,No,0,Regular
+126,LEA 415,Police Intelligence,BSC,IV,1st Sem,3,0,No,0,Regular
+127,LEA 416,Comperative Police System,BSC,IV,1st Sem,3,0,No,0,Regular
+128,CDI 416,Fire Tech. & Arson Inves.,BSC,IV,1st Sem,3,0,No,0,Regular
+129,CRM 415,Polygraphy & Lie Detection,BSC,IV,1st Sem,4,0,No,0,Regular
+130,CRM 426,Legal Medicine with DNA Test,BSC,IV,1st Sem,4,0,No,0,Regular
+131,CLJ 415,Mook Trial &Court Testimony,BSC,IV,1st Sem,3,0,No,0,Regular
+132,OJT,On the Job Training & Community Immeration Immersion 1 & 2,BSC,IV,2nd Sem,6,0,No,0,OJT
+133,RVW,Integrated Review 1 & 2,BSC,IV,2nd Sem,6,0,No,0,Practicum
+134,LCS 101,*CS Fundamental,BSCS,I,1st Sem,3,1,Yes,0,With Lab
+135,LCS 103,*Computer Programming 1,BSCS,I,1st Sem,3,1,Yes,0,With Lab
+136,SS 1A,"Phil History, Roots and Dev't",BSCS,I,1st Sem,3,0,No,0,Regular
+137,Theo 1,Salvation History,BSCS,I,1st Sem,3,0,No,0,Regular
+138,MathCS 1,Algebra,BSCS,I,1st Sem,3,0,Yes,0,Regular
+139,English 1,Communication Arts,BSCS,I,1st Sem,3,0,Yes,0,Regular
+140,Fil 1,Komunikasyon akademyang filipino,BSCS,I,1st Sem,3,0,Yes,0,Regular
+141,Mgmt 1,Principles of Management,BSCS,I,1st Sem,3,0,No,0,Regular
+142,NSTP 1,Civic Welfare Service Training 1,BSCS,I,1st Sem,3,0,Yes,0,Regular
+143,PE 1,Physical Fitness,BSCS,I,1st Sem,2,0,No,0,Regular
+144,TVET  101,*Office Productivity ,BSCS,I,2nd Sem,3,1,No,LCS 101,With Lab
+145,LCS 104,*Computer Programming 2,BSCS,I,2nd Sem,3,1,Yes,LCS103,With Lab
+146,LCS 201,Data Structures,BSCS,I,2nd Sem,3,0,Yes,LCS 103,Regular
+147,LCS 208,DigitalDesign,BSCS,I,2nd Sem,3,0,Yes,MathCS 1,Regular
+148,LCS 209A,*MultiMedia and Design 1,BSCS,I,2nd Sem,3,1,Yes,,With Lab
+149,MathCS 2,Trigonometry ,BSCS,I,2nd Sem,3,0,No,MathCS 1,Regular
+150,English 1,Communication Skills for IT,BSCS,I,2nd Sem,3,0,No,English 1,Regular
+151,English 2,Pagbasa't Pagsulat sa Komunikasyon ,BSCS,I,2nd Sem,3,0,No,Fil 1,Regular
+152,NSTP 2,Civic Welfare Service Training 2,BSCS,I,2nd Sem,3,0,No,NSTP 1,Regular
+153,PE 2,Fundamentals of Rhythmic Activities,BSCS,I,2nd Sem,2,0,No,0,Regular
+154,TVET 102,Quality  Standards & Safety,BSCS,I,Summer,1.5,0,No,0,Regular
+155,TVET 103,Professional Development,BSCS,I,Summer,1.5,0,No,0,Regular
+156,LCS 107,Professional Ethics,BSCS,I,Summer,3,0,No,0,Regular
+157,Act 1,Accounting 1,BSCS,I,Summer,3,0,No,MathCS 1,Regular
+158,LCS 106,*Comp. Org & Assembly Language,BSCS,II,1st Sem,3,1,Yes,LCS 208,With Lab
+159,LCS 202,Calculus,BSCS,II,1st Sem,3,0,No,MathCS 2,Regular
+160,LCS 203,*Object Oriented Programming,BSCS,II,1st Sem,3,1,Yes,LCS 104,With Lab
+161,LCS 204,Design & Analysis of Algorithm,BSCS,II,1st Sem,3,0,No,LCS 201,Regular
+162,LCS 205,*Database Systems,BSCS,II,1st Sem,3,1,No,LCS 203,With Lab
+163,LCS209B,*Multimedia & Web Design 2,BSCS,II,1st Sem,3,1,Yes,LCS 209A,With Lab
+164,MathCS 3,Probability & Statistics,BSCS,II,1st Sem,3,0,No,MathCS 1,Regular
+165,PE 3,Individual & Dual Games & Sports,BSCS,II,1st Sem,2,0,No,0,Regular
+166,LCS 212,*Operating Systems,BSCS,II,2nd Sem,3,1,No,LCS 106,With Lab
+167,LCS209C,*Multimedia & Web Design Project,BSCS,II,2nd Sem,3,1,No,LCS 209B,With Lab
+168,LCS 301,*System Analysis & Design (with  Software Project),BSCS,II,2nd Sem,3,1,No,0,With Lab
+169,LCS 501 A,On-The-JobTraini ng (ACT OUT) ,BSCS,II,2nd Sem,3,0,No,0,Regular
+170,Eng 5A,Introduction to Literature,BSCS,II,2nd Sem,3,0,No,0,Regular
+171,Hum 1,Introduction to Art,BSCS,II,2nd Sem,3,0,No,,Regular
+172,PE 4,Recreational  Activities,BSCS,II,2nd Sem,2,0,No,,Regular
+173,LCS 105,Discrete Structure,BSCS,III,1st Sem,3,0,Yes,MathCS1,Regular
+174,LCS206,*Programming Language,BSCS,III,1st Sem,3,1,No,LCS 201,With Lab
+175,LCS 207,Automata & Language Theory,BSCS,III,1st Sem,3,0,Yes,LCS 105,Regular
+176,LCS 209,*Web Programming,BSCS,III,1st Sem,3,1,No,LCS 203,With Lab
+177,LCS 211,*Software Engineering,BSCS,III,1st Sem,3,1,Yes,LCS 203,With Lab
+178,Physics 1,*Mechanics & Themodynamics,BSCS,III,1st Sem,4,1,No,MathCS1,Regular
+179,SS 2,Introduction to logic & Ethics,BSCS,III,1st Sem,3,0,No,3rd year,Regular
+180,Eng 3,Speech & Oral Communication,BSCS,III,1st Sem,3,0,Yes,Eng 1,Regular
+181,LCS 210,Modelling & Si mulation,BSCS,III,2nd Sem,3,0,No,LCS 207,Regular
+182,LCS213,*Network Principles  & Programming ,BSCS,III,2nd Sem,3,1,No,LCS 212,Regular
+183,LCS302,*CS Elective 2,BSCS,III,2nd Sem,3,1,No,3rd Year,Regular
+184,SS3,Prin. Of Economics w/ Agrarian Reform,BSCS,III,2nd Sem,3,0,No,,Regular
+185,Physics 2,*Electricity & Magnesim,BSCS,III,2nd Sem,4,0,No,Physisics1,Regular
+186,Psy 1,General  Psychology,BSCS,III,2nd Sem,3,0,No,,Regular
+187,SS5,Rizal's Life Works & Writings,BSCS,III,2nd Sem,3,0,No,,Regular
+188,SS 1,Phil. Gov & New constitution,BSCS,III,2nd Sem,3,0,No,,Regular
+189,LCS 501,OJT/Practicum,BSCS,IV,1st Sem,6,0,Yes,4th year,OJT
+190,LCS502,Thesis 1 (Methods of Research),BSCS,IV,1st Sem,3,0,No,LCS 211,Practicum
+191,LCS  403,Free Elective 3,BSCS,IV,2nd Sem,3,0,No,4th year,Regular
+192,LCS 303,*CS Elective 3,BSCS,IV,2nd Sem,3,1,No,4th year,With Lab
+193,LCS 304,*CS Elective 4,BSCS,IV,2nd Sem,3,1,No,4th year,With Lab
+194,Eng 21A,Advance Communication Skills,BSCS,IV,2nd Sem,3,0,No,Eng 3,Regular
+195,LCS 503,Thesis 2 (Software Project),BSCS,IV,2nd Sem,3,0,No,LCS 501,Practicum
+196,Eng 0,English Plus,MAPEH,I,1st Sem,3,0,No,,Regular
+197,Eng 1,Study & Thinking Skills,MAPEH,I,1st Sem,3,0,Yes,,Regular
+198,Fil 1,Komunikasyon akademyang filipino,MAPEH,I,1st Sem,3,0,Yes,,Regular
+199,Math 1,Fundamentals of Math,MAPEH,I,1st Sem,3,0,Yes,,Regular
+200,Sci  1,Biological Science,MAPEH,I,1st Sem,3,0,Yes,,Regular
+201,Psy 1,General Psychology,MAPEH,I,1st Sem,3,0,No,,Regular
+202,SS 1A,"Phil. History, Roots & Dev't",MAPEH,I,1st Sem,3,0,No,,Regular
+203,Hum 1,Introduction to Arts,MAPEH,I,1st Sem,3,0,No,,Regular
+204,PE 1,Physical Fitness,MAPEH,I,1st Sem,2,0,No,,Regular
+205,NSTP,Civil Welfare Service Training 1,MAPEH,I,1st Sem,3,0,No,,Regular
+206,ICT,Information Communication Technology,MAPEH,I,2nd Sem,3,1,No,,With Lab
+207,Eng 2,Development Basic Research & Writing Skills,MAPEH,I,2nd Sem,3,0,Yes,Eng 1,Regular
+208,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,MAPEH,I,2nd Sem,3,0,Yes,Fil 1,Regular
+209,Math 2,Contemporary Mathematics,MAPEH,I,2nd Sem,3,0,No,Math 1,Regular
+210,Sci  2,Earth Science,MAPEH,I,2nd Sem,3,0,No,Sci 1,Regular
+211,Ed/TC 1,Child & Adolescent Development,MAPEH,I,2nd Sem,3,0,Yes,,Regular
+212,SPE Mapeh 1,Fundamentals of Music,MAPEH,I,2nd Sem,3,0,Yes,,Regular
+213,SPE Mapeh 2,Foundation of MAPEH,MAPEH,I,2nd Sem,3,0,No,,Regular
+214,PE 2,Fundamentals of Rhythmic Activities,MAPEH,I,2nd Sem,2,0,No,,Regular
+215,NSTP 2,Civic Welfare Service Training 2,MAPEH,I,2nd Sem,3,0,No,,Regular
+216,Ed/MST 1,Educational Technology 1,MAPEH,I,Summer,3,0,Yes,,Regular
+217,Ed/TC 4,Social Dimensions of Educational,MAPEH,I,Summer,3,0,No,,Regular
+218,Ed/MST 4,Principle of Teaching 1,MAPEH,I,Summer,3,0,Yes,,Regular
+219,Eng 3,Speech & Oral Communication,MAPEH,II,1st Sem,3,0,No,Eng 2,Regular
+220,Fil 3,Masining na Pagpapahayag,MAPEH,II,1st Sem,3,0,No,Fil 2,Regular
+221,Theo 1,Salvation History,MAPEH,II,1st Sem,3,0,No,,Regular
+222,Ed/TC 2,Facilitating and Learning (w/ FS 1),MAPEH,II,1st Sem,3,0,Yes,Ed/TC 1,Regular
+223,Ed/FS 1,Leamer's Development & Environment,MAPEH,II,1st Sem,1,0,No,,Field Study
+224,Ed/MST 5,Principles of Teaching 2,MAPEH,II,1st Sem,3,0,Yes,Ed/MST 4,Regular
+225,Ed/FS 2,Experiencing the Teaching & Learning Process,MAPEH,II,1st Sem,3,0,No,,Field Study
+226,SPE Mapeh 3,Phil. & International Folk Dances & other Dance Form,MAPEH,II,1st Sem,3,0,No,SPE Mapeh1,Regular
+227,SPE Mapeh 4,"Personal, Commuunity & Environmental Health",MAPEH,II,1st Sem,3,0,No,,Regular
+228,SPE Mapeh 5,"Anatomical, Mechanical & Psysilogical of Movement",MAPEH,II,1st Sem,3,0,No,,Regular
+229,PE 3,Individual * Dual Games & Spors,MAPEH,II,1st Sem,2,0,No,,Regular
+230,SS 1,Philippine Goverment & New Constitution,MAPEH,II,2nd Sem,3,0,No,,Regular
+231,Theo 2,Psychology of Christian Personality,MAPEH,II,2nd Sem,3,0,No,,Regular
+232,Ed/MST 6,Assessment of Student Learnig 1,MAPEH,II,2nd Sem,3,0,Yes,Ed/MST 5,Regular
+233,Ed/MST 2,Educational Technology 2,MAPEH,II,2nd Sem,3,0,No,Ed/MST 1,Regular
+234,Ed/FS 3,FS3-Technology in the Learning Environment,MAPEH,II,2nd Sem,1,0,No,,Regular
+235,Ed/MST 3,Curriculum Development,MAPEH,II,2nd Sem,3,0,No,Ed/MST 5,Regular
+236,Ed/FS 4,Exploring the Curriculum,MAPEH,II,2nd Sem,1,0,No,,Field Study
+237,SPE Mapeh 6,Integrated Music Theory,MAPEH,II,2nd Sem,3,0,No,SPE Mapeh 1,Regular
+238,SPE Mapeh 7,Art Education,MAPEH,II,2nd Sem,3,0,No,,Regular
+239,SPE Mapeh 8,"Athletics, individual, Dual & Combative Sports",MAPEH,II,2nd Sem,3,0,No,,Regular
+240,PE 4,Recreational Activities,MAPEH,II,2nd Sem,2,0,No,,Regular
+241,Lit 1,Philippine Literature,MAPEH,III,1st Sem,3,0,No,,Regular
+242,Hum 2,Intro to Philosophy & Ethics (SS2),MAPEH,III,1st Sem,3,0,No,,Regular
+243,FundRes,Fundamentals of Research,MAPEH,III,1st Sem,3,0,No,,Regular
+244,Ed/SPT 1,Spl Tpic (Use of PopILAR Media in Tech),MAPEH,III,1st Sem,1,0,No,,Regular
+245,Ed/MST 7,Assessment of Student Learnign 2,MAPEH,III,1st Sem,3,0,No,Ed/MST 6,Regular
+246,Ed/FS 5,FS  5-Learning Assessment Strategies,MAPEH,III,1st Sem,1,0,No,,Field Study
+247,SPE Mapeh 9,Aquatics,MAPEH,III,1st Sem,3,0,No,,Regular
+248,SPE Mapeh 10,Solfeggio & Applied Music,MAPEH,III,1st Sem,3,0,No,,Regular
+249,SPE Mapeh 11,Methods & Strategied in Teaching MAPEH,MAPEH,III,1st Sem,3,0,No,,Regular
+250,SPE Mapeh 12,Philippine and Asian Music,MAPEH,III,1st Sem,3,0,No,,Regular
+251,Lit 2,World Literature,MAPEH,III,2nd Sem,3,0,No,,Regular
+252,SS5,"Rizal's Life, Work & Writings",MAPEH,III,2nd Sem,3,0,No,,Regular
+253,Ed/SPT 2,Specialtopic 2 (Environment Education),MAPEH,III,2nd Sem,1,0,No,,Regular
+254,Ed/MST 8 ,Development Reading 1,MAPEH,III,2nd Sem,3,0,No,3rd yr standing,Regular
+255,Ed/TC 3,The Teaching Profession,MAPEH,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+256,Ed/FS 6, On Becoming Solving,MAPEH,III,2nd Sem,1,0,No,,Field Study
+257,SPE Mapeh 13,Special Education in MAPEH,MAPEH,III,2nd Sem,3,0,No,,Regular
+258,SPE Mapeh 14,Gymnastics,MAPEH,III,2nd Sem,3,0,No,3rd yr standing,Regular
+259,SPE Mapeh 15,Music Literature - Western Music,MAPEH,III,2nd Sem,3,0,No,3rd yr standing,Regular
+260,SPE Mapeh 16,"Choral Works, Conduction & Rondalla Playing Instrumentation",MAPEH,III,2nd Sem,3,0,No,3rd year Standing,Regular
+261,SS3,Prin. Of Eco. w/ Agrarian Reform & Tax,MAPEH,IV,1st Sem,3,0,No,,Regular
+262,SS6,"Current Issues (w/HIV,AIDS,SARS, Gender & Peace Education)",MAPEH,IV,1st Sem,3,0,No,,Regular
+263,Eng 21A,English for Specific Purpose (Call Center),MAPEH,IV,1st Sem,3,0,No,,Regular
+264,Ed/SPT 3,Special Topic 3 (Collaborative Learning),MAPEH,IV,1st Sem,1,0,No,,Regular
+265,SS4,"Sociology & Family Planning (w/ Population, Drug Addiction, Volunteerism & Anti-Smoking)",MAPEH,IV,1st Sem,3,0,No,,Regular
+266,Ed/SPT 3,Special Topic 3 (Collaborative Learning),MAPEH,IV,1st Sem,3,0,No,,Regular
+267,SPE Mapeh 17,Assessment & Evaluation in MAPEH,MAPEH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+268,SPE Mapeh 18,Organization & Management of MAPEH Activities,MAPEH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+269,SPE Mapeh 19,Coaching and Officiating,MAPEH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+270,SPE Mapeh 20,Research in MAPEH,MAPEH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+271,Ed/Teach,Practice Teaching,MAPEH,IV,2nd Sem,6,0,No,4th year Standing,Practicum
+272,Eng 0,English Plus,FIL,I,1st Sem,3,0,No,,Regular
+273,Eng 1,Study & Thinking Skills,FIL,I,1st Sem,3,0,Yes,,Regular
+274,Fil 1,Komunikasyon sa Akademikong Filipino,FIL,I,1st Sem,3,0,Yes,,Regular
+275,Math 1,Fundamentals of Math,FIL,I,1st Sem,3,0,Yes,,Regular
+276,Sci 1,Biological Science,FIL,I,1st Sem,3,0,Yes,,Regular
+277,Psy 1,General Psychology,FIL,I,1st Sem,3,0,No,,Regular
+278,SS 1A,"Phil. History, Roots & Dev't",FIL,I,1st Sem,3,0,No,,Regular
+279,Hum 1,Intro to Arts,FIL,I,1st Sem,3,0,No,,Regular
+280,PE 1,Physical Fitness,FIL,I,1st Sem,2,0,No,,Regular
+281,NSTP 1,Civil Welfare Service Training 1,FIL,I,1st Sem,3,0,No,,Regular
+282,ICT,Information Communication Technology,FIL,I,2nd Sem,3,1,No,,With Lab
+283,Eng 2,Developmental Basic Research & Writing Skills,FIL,I,2nd Sem,3,0,Yes,Eng 1,Regular
+284,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,FIL,I,2nd Sem,3,0,Yes,Fil 1,Regular
+285,Math 2,Contemporary Mathematics,FIL,I,2nd Sem,3,0,No,Math 1,Regular
+286,Sci 2,Earth Science,FIL,I,2nd Sem,3,0,No,Sci 1,Regular
+287,Ed/TC 1,Child & Adolescent Development,FIL,I,2nd Sem,3,0,Yes,Psy 1,Regular
+288,SPE Fil 1,Instraktura ng Wikang Filipino,FIL,I,2nd Sem,3,0,No,,Regular
+289,SPE Fil 2,Introduksyon sa Pag-aaral ng Wika,FIL,I,2nd Sem,3,0,No,,Regular
+290,PE 2,Fundamentals of Rhytmic Activity,FIL,I,2nd Sem,2,0,No,,Regular
+291,NSTP 2,Civil Welfare Service Training 2,FIL,I,2nd Sem,3,0,No,,Regular
+292,Ed/MST 1,Educational Technology 1,FIL,I,Summer,3,0,Yes,,Regular
+293,Ed/TC 4,Social Dimensions of Education,FIL,I,Summer,3,0,No,Ed/TC 1,Regular
+294,Ed/MST 4,Principles of Teaching 1,FIL,I,Summer,3,0,Yes,,Regular
+295,Eng 3,Speech & Oral Communication,FIL,II,1st Sem,3,0,No,Eng 2,Regular
+296,Fil 3,Masining na Pagpapahayag,FIL,II,1st Sem,3,0,No,Fil 2,Regular
+297,Theo 1,Salvation History,FIL,II,1st Sem,3,0,No,,Regular
+298,Ed/TC 2,Facilitating and Learning,FIL,II,1st Sem,3,0,No,Ed/TC 1,Regular
+299,Ed/FS 1,FS 1-Learners Development & Environment,FIL,II,1st Sem,1,0,No,,Field Study
+300,Ed/MST 5,Principles of Teaching 2,FIL,II,1st Sem,3,0,Yes,Ed/MST 4,Regular
+301,Ed/FS 2,FS 2-Experiencing the Teaching & Learning Process,FIL,II,1st Sem,1,0,No,,Field Study
+302,SPE Fil 3,Panitikang Filipino at Panrelihiyon,FIL,II,1st Sem,3,0,No,,Regular
+303,SPE Fil 4,Sanaysay at Talumpati,FIL,II,1st Sem,3,0,No,,Regular
+304,SPE Fil 5,Dula at Nobelang Filipino,FIL,II,1st Sem,3,0,No,,Regular
+305,PE 3,Individual & Dual Games & Sports,FIL,II,1st Sem,2,0,No,,Regular
+306,SS 1,Philippine Government & New Constitution,FIL,II,2nd Sem,3,0,No,,Regular
+307,Theo 2,Psychology of Christian Personality,FIL,II,2nd Sem,3,0,No,,Regular
+308,Ed/MST 6,Assessment of Student Learning 1,FIL,II,2nd Sem,3,0,Yes,Ed/MST 3,Regular
+309,Ed/MST 2,Educational Technology 2,FIL,II,2nd Sem,3,0,No,Ed/MST 1,Regular
+310,Ed/FS 3,FS 3-Technology in the Learning Environement,FIL,II,2nd Sem,1,0,No,,Field Study
+311,Ed/MST 3,Curriculum Development,FIL,II,2nd Sem,3,0,No,Ed/MST 5,Regular
+312,Ed/FS 4,FS 4- Exploring the Curriculum,FIL,II,2nd Sem,1,0,No,,Field Study
+313,SPE Fil 6,Maikling Kwentong Filipino,FIL,II,2nd Sem,3,0,No,,Regular
+314,SPE Fil 7,Panitikan ng mga Umuunlad na Bansa,FIL,II,2nd Sem,3,0,No,,Regular
+315,SPE Fil 8,Pagbasa ng mga Obra Maestrang Pilipino,FIL,II,2nd Sem,3,0,No,,Regular
+316,PE 4,Recreational Activities,FIL,II,2nd Sem,2,0,No,,Regular
+317,Lit 1,Philippine Literature,FIL,III,1st Sem,3,0,No,,Regular
+318,Hum 2,Intro to Philosophy & Ethics (SS2),FIL,III,1st Sem,3,0,No,,Regular
+319,FundRes,Fundamentals of Research,FIL,III,1st Sem,3,0,No,,Regular
+320,Ed/SPT 1,Spl Topic 1(Use of PopULAR Media in Teach),FIL,III,1st Sem,3,0,No,,Regular
+321,Ed/MST 7,Assessment of Student Learning 2,FIL,III,1st Sem,3,0,No,Ed/MST 6,Regular
+322,Ed/FS 5,FS 5- Learning Assessment Strategies,FIL,III,1st Sem,1,0,No,,Field Study
+323,SPE Fil 9,Panulang Filipino,FIL,III,1st Sem,3,0,No,,Regular
+324,SPE Fil 10,Panunuring Pampanitikan,FIL,III,1st Sem,3,0,No,,Regular
+325,SPE Fil 11,Kulturang Popular,FIL,III,1st Sem,3,0,No,,Regular
+326,SPE Fil 12,Pagtuturo at Pagtataya sa Apat na Maktong Kasanayan sa Komunikasyon,FIL,III,1st Sem,3,0,No,,Regular
+327,Lit 2,World Literature,FIL,III,2nd Sem,3,0,No,,Regular
+328,SS5,"Rizal's Life,Works & Writings",FIL,III,2nd Sem,3,0,No,,Regular
+329,Ed/SPT 2,Special Topic 2 (Environmental Education),FIL,III,2nd Sem,1,0,No,,Regular
+330,Ed/MST 8,Developmental Reading 1,FIL,III,2nd Sem,3,0,No,3rd yr stand,Regular
+331,Ed/TC 3,The Teaching Profession,FIL,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+332,Ed/FS 6,FS 6- On Becoming a Teacher,FIL,III,2nd Sem,1,0,No,,Field Study
+333,SPE 13,Panimulang Lingwistika,FIL,III,2nd Sem,3,0,No,,Regular
+334,SPE 14,Paghahanda at Ealwasyon sa Kagamitang Pili,FIL,III,2nd Sem,3,0,No,,Regular
+335,SPE 15,Introduksyon sa Pamamahayag,FIL,III,2nd Sem,3,0,No,,Regular
+336,SPE 16,Pagpapahalagang Pampanitikan,FIL,III,2nd Sem,3,0,No,,Regular
+337,SS 3,Prin. Of Eco. w/ Agrarian Reform & Tax,FIL,IV,1st Sem,3,0,No,,Regular
+338,SS 6,"Current Issues (w/ HIV,AIDS,SARS,Gender & Peace Edcation)",FIL,IV,1st Sem,3,0,No,,Regular
+339,Eng 21A,Engish for Specific Purpose (Call Center),FIL,IV,1st Sem,3,0,No,,Regular
+340,Ed/SPT 3,Special Topic 3(Collaborative Learning),FIL,IV,1st Sem,1,0,No,,Regular
+341,SS4,"Sociology & Family Planning w/ Population, Drug Addiction,Volunterism & Anti-Smoking",FIL,IV,1st Sem,3,0,No,,Regular
+342,SPE Fil 17,Pananaliksik sa Wika at Panitikan,FIL,IV,1st Sem,3,0,No,,Regular
+343,SPE Fil 18,"Pagturo ng, at Pagtataya sa Panitikan",FIL,IV,1st Sem,3,0,No,,Regular
+344,SPE Fil 19,Introduksyo sa Pagsasalin,FIL,IV,1st Sem,3,0,No,,Regular
+345,SPE Fil 20,Ang Kurikulum ng Wikang Filipino sa Batayan,FIL,IV,1st Sem,3,0,No,,Regular
+346,Ed/P.Teaching,Practice Teaching,FIL,IV,2nd Sem,6,0,No,FS 1 - 6,Practicum
+347,Eng 0,English Plus,MATH,I,1st Sem,3,0,No,,Regular
+348,Eng 1,Study & Thinking Skills,MATH,I,1st Sem,3,0,Yes,,Regular
+349,Fil 1,Komunikasyon akademyang filipino,MATH,I,1st Sem,3,0,Yes,,Regular
+350,Math 1,Fundamentals of Math,MATH,I,1st Sem,3,0,Yes,,Regular
+351,Sci  1,Biological Science,MATH,I,1st Sem,3,0,Yes,,Regular
+352,Psy 1,General Psychology,MATH,I,1st Sem,3,0,Yes,,Regular
+353,SS 1A,"Phil. History, Roots & Dev't",MATH,I,1st Sem,3,0,No,,Regular
+354,Hum 1,Introduction to Arts,MATH,I,1st Sem,3,0,No,,Regular
+355,PE 1,Physical Fitness,MATH,I,1st Sem,2,0,No,,Regular
+356,NSTP,Civic Welfare Service Training 1,MATH,I,1st Sem,3,0,No,,Regular
+357,ICT,Information Communication Technology,MATH,I,2nd Sem,3,1,No,,With Lab
+358,Eng 2,Development Basic Research & Writing Skills,MATH,I,2nd Sem,3,0,Yes,Eng 1,Regular
+359,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,MATH,I,2nd Sem,3,0,Yes,Fil 1,Regular
+360,Math 2,Contemporary Mathematics,MATH,I,2nd Sem,3,0,Yes,Math 1,Regular
+361,Sci  2,Earth Science,MATH,I,2nd Sem,3,0,No,Sci 1,Regular
+362,Ed/TC 1,Child & Adolescent Development,MATH,I,2nd Sem,3,0,Yes,Psy 1,Regular
+363,SPE Math 1,Advanced Algebra,MATH,I,2nd Sem,3,0,Yes,Math 1,Regular
+364,SPE Math 2,Plane Geometry,MATH,I,2nd Sem,3,0,Yes,,Regular
+365,PE 2,Fundamentals of Rhythmic Activities,MATH,I,2nd Sem,2,0,No,,Regular
+366,NSTP 2,Civic Welfare Service Training 2,MATH,I,2nd Sem,3,0,No,,Regular
+367,Ed/MST 1,Educational Technology 1,MATH,I,Summer,3,0,Yes,,Regular
+368,Ed/TC 4,Social Dimensions of Educational,MATH,I,Summer,3,0,Yes,Ed/TC 1,Regular
+369,Ed/MST 4,Principle of Teaching 1,MATH,I,Summer,3,0,Yes,,Regular
+370,Eng 3,Speech 8 Oral Communication,MATH,II,1st Sem,3,0,No,Eng 2,Regular
+371,Fil 3,Masining na Pagpapahayag,MATH,II,1st Sem,3,0,No,Fil 2,Regular
+372,Theo 1,Salvation History,MATH,II,1st Sem,3,0,No,,Regular
+373,Ed/TC 2,Facilitating and Learning,MATH,II,1st Sem,3,0,Yes,Ed/TC 1,Regular
+374,Ed/FS 1,FS 1 - Leamer's Development & Environment,MATH,II,1st Sem,1,0,Yes,,Field Study
+375,Ed/MST 5,Principles of Teaching 2,MATH,II,1st Sem,3,0,Yes,Ed/MST 4,Regular
+376,Ed/FS 2,FS 2-Experiencing the Teaching & Learning Process,MATH,II,1st Sem,3,0,No,,Field Study
+377,SPE Math 3,Trigonometry,MATH,II,1st Sem,3,0,No,Math 2,Regular
+378,SPE Math 4,Solid Geometry,MATH,II,1st Sem,3,0,Yes,SPE Math 2,Regular
+379,SPE Math 5,Analytic Geometry,MATH,II,1st Sem,3,0,No,"SPE M1,M2",Regular
+380,PE 3,Individual * Dual Games & Spors,MATH,II,1st Sem,2,0,No,,Regular
+381,SS 1,Philippine Goverment & New Constitution,MATH,II,2nd Sem,3,0,No,,Regular
+382,Theo 2,Psychology of Christian Personality,MATH,II,2nd Sem,3,0,No,,Regular
+383,Ed/MST 6,Assessment of Student Learnig 1,MATH,II,2nd Sem,3,0,No,Ed/MST 3,Regular
+384,Ed/MST 2,Educational Technology 2,MATH,II,2nd Sem,3,0,No,Ed/MST 1,Regular
+385,Ed/FS 3,FS3-Technology in the Learning Environment,MATH,II,2nd Sem,1,0,Yes,,Field Study
+386,Ed/MST 3,Curriculum Development,MATH,II,2nd Sem,3,0,Yes,Ed/MST 5,Regular
+387,Ed/FS 4,FS4-Experiencingthe Curriculum,MATH,II,2nd Sem,1,0,Yes,,Field Study
+388,SPE Math 6,History of Math ,MATH,II,2nd Sem,3,0,Yes,2nd yr standing ,Regular
+389,SPE Math 14,Linear Algebra,MATH,II,2nd Sem,3,0,Yes,"SPE M1,M2",Regular
+390,SPE Math 18,Modern Geometry,MATH,II,2nd Sem,3,0,No,SPE Math4,Regular
+391,PE 4,Recreational Activities,MATH,II,2nd Sem,2,0,No,,Regular
+392,Lit 1,Philippine Literature,MATH,III,1st Sem,3,0,No,,Regular
+393,Hum 2,Intro to Philosophy & Ethics (SS2),MATH,III,1st Sem,3,0,No,,Regular
+394,FundRes,Fundamentals of Research,MATH,III,1st Sem,3,0,No,,Regular
+395,Ed/SPT 1,Spl Tpic (Use of PopILAR Media in Tech),MATH,III,1st Sem,1,0,No,,Regular
+396,Ed/MST 7,Assessment of Student Learnign 2,MATH,III,1st Sem,3,0,No,Ed/MST 6,Regular
+397,Ed/FS 5,FS  5-Learning Assessment Strategies,MATH,III,1st Sem,1,0,No,,Field Study
+398,SPE Math 9,Calculus 1,MATH,III,1st Sem,3,0,Yes,SPE Math 5,Regular
+399,SPE Math 10,Probability,MATH,III,1st Sem,3,0,No,Math 2,Regular
+400,SPE Math 12,Elementary Statistics,MATH,III,1st Sem,3,0,Yes,Math 2,Regular
+401,SPE Math 20,Abstract Algebra,MATH,III,1st Sem,3,0,No,SPE Math 14,Regular
+402,Lit 2,World Literature,MATH,III,2nd Sem,3,0,No,,Regular
+403,SS5,"Rizal's Life, Work & Writings",MATH,III,2nd Sem,3,0,No,,Regular
+404,Ed/SPT 2,Specialtopic 2 (Environment Education),MATH,III,2nd Sem,1,0,No,,Regular
+405,Ed/MST  8,Development Reading 1,MATH,III,2nd Sem,3,0,No,3rd yr standing,Regular
+406,Ed/TC 3,The Teaching Profession,MATH,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+407,Ed/FS 6,FS 6 - On Becoming Solving,MATH,III,2nd Sem,1,0,Yes,,Field Study
+408,SPE Math 8,Seminar in Problem  Solving,MATH,III,2nd Sem,3,0,No,3rd year,Regular
+409,SPE Math 11,number Theory,MATH,III,2nd Sem,3,0,No,SPE Math 6,Regular
+410,SPE Math 13,Caluculus 2,MATH,III,2nd Sem,3,0,No,SPE Math 9,Regular
+411,SPE Math 16,Advanced Statistics,MATH,III,2nd Sem,3,0,Yes,SPE Math 12,Regular
+412,SS3,Prin. Of Eco. w/ Agrarian Reform & Tax,MATH,IV,1st Sem,3,0,No,,Regular
+413,SS6,"Current Issues (w/HIV,AIDS,SARS, Gender & Peace Education)",MATH,IV,1st Sem,3,0,No,,Regular
+414,Eng 21A,English for Specific Purpose (Call Center),MATH,IV,1st Sem,3,0,No,,Regular
+415,Ed/SPT 3,Special Topic 3 (Collaborative Learning),MATH,IV,1st Sem,1,0,No,,Regular
+416,SS4,"Sociology & Family Planning (w/ Population, Drug Addiction, Volunteerism & Anti-Smoking",MATH,IV,1st Sem,3,0,No,,Regular
+417,SPE Math 7,Instrumental in Math,MATH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+418,SPE Math 15,Mathematical Investigation &Modelling,MATH,IV,1st Sem,3,0,No,SPE Math 13,Regular
+419,SPE Math 17,Action Research in Math,MATH,IV,1st Sem,3,0,No,SPE Math 16,Regular
+420,SPE Math 19,Seminar on Technology in Math,MATH,IV,1st Sem,3,0,No,4th yr Standing,Regular
+421,Ed/Teach,Practice Teaching,MATH,IV,2nd Sem,6,0,No,FS 1-6,Practicum
+422,Eng 0,English Plus,SOCSCI,I,1st Sem,3,0,No,,Regular
+423,Eng 1,Study & Thinking Skills,SOCSCI,I,1st Sem,3,0,Yes,,Regular
+424,Fil 1,Komunikasyon Akademyang Filipino,SOCSCI,I,1st Sem,3,0,Yes,,Regular
+425,Math 1,Fundamentals of Math,SOCSCI,I,1st Sem,3,0,Yes,,Regular
+426,Sci  1,Biological Science,SOCSCI,I,1st Sem,3,0,Yes,,Regular
+427,Psy 1,General Psychology,SOCSCI,I,1st Sem,3,0,Yes,,Regular
+428,SS 1A,"Phil. History, Roots & Dev't",SOCSCI,I,1st Sem,3,0,No,,Regular
+429,Hum 1,Introduction to Arts,SOCSCI,I,1st Sem,3,0,No,,Regular
+430,PE 1,Physical Fitness,SOCSCI,I,1st Sem,2,0,No,,Regular
+431,NSTP,Civil Welfare Service Training 1,SOCSCI,I,1st Sem,3,0,No,,Regular
+432,ICT,Information Communication Technology,SOCSCI,I,2nd Sem,3,1,No,,With Lab
+433,Eng 2,Development Basic Research & Writing Skills,SOCSCI,I,2nd Sem,3,0,Yes,Eng 1,Regular
+434,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,SOCSCI,I,2nd Sem,3,0,No,Fil 1,Regular
+435,Math 2,Contemporary Mathematics,SOCSCI,I,2nd Sem,3,0,No,Math 1,Regular
+436,Sci  2,Earth Science,SOCSCI,I,2nd Sem,3,0,No,Sci 1,Regular
+437,Ed/TC 1,Child & Adolescent Development,SOCSCI,I,2nd Sem,3,0,Yes,Psy 1,Regular
+438,SPE SS 1,Basic Geography,SOCSCI,I,2nd Sem,3,0,No,,Regular
+439,SPE SS 2,Places & Landscape in Changing World,SOCSCI,I,2nd Sem,3,0,Yes,,Regular
+440,PE 2,Fundamentals of Rhythmic Activities,SOCSCI,I,2nd Sem,2,0,No,,Regular
+441,NSTP 2,Civic Welfare Service Training 2,SOCSCI,I,2nd Sem,3,0,No,,Regular
+442,Ed/MST 1,Educational Technology 1,SOCSCI,I,Summer,3,0,No,,Regular
+443,Ed/TC 4,Social Dimensions of Educational,SOCSCI,I,Summer,3,0,No,Ed/TC 1,Regular
+444,Ed/MST 4,Principle of Teaching 1,SOCSCI,I,Summer,3,0,Yes,,Regular
+445,Eng 3,Speech & Oral Communication,SOCSCI,II,1st Sem,3,0,No,Eng 2,Regular
+446,Fil 3,Masining na Pagpapahayag,SOCSCI,II,1st Sem,3,0,No,Fil 2,Regular
+447,Theo 1,Salvation History,SOCSCI,II,1st Sem,3,0,No,,Regular
+448,Ed/TC 2,Facilitating and Learning (w/ FS 1),SOCSCI,II,1st Sem,3,0,Yes,Ed/TC 1,Regular
+449,Ed/FS 1,FS 1 - Leamer's Development & Environment,SOCSCI,II,1st Sem,1,0,Yes,,Field Study
+450,Ed/MST 5,Principles of Teaching 2,SOCSCI,II,1st Sem,3,0,Yes,Ed/MST 4,Regular
+451,Ed/FS 2,FS 2- Leamer's Development & Environment,SOCSCI,II,1st Sem,3,0,Yes,,Field Study
+452,SPE SS 3,Geography & Natural Resources of the Phil.,SOCSCI,II,1st Sem,3,0,No,SPE SS 2,Regular
+453,SPE SS 4,World History & Civilization 1,SOCSCI,II,1st Sem,3,0,Yes,SPE SS 2,Regular
+454,SPE SS 5,Teaching Aproach in Secondary Social Studies,SOCSCI,II,1st Sem,3,0,Yes,SPE SS 2,Regular
+455,PE 3,Individual * Dual Games & Spors,SOCSCI,II,1st Sem,2,0,No,,Regular
+456,SS 1,Philippine Goverment & New Constitution,SOCSCI,II,2nd Sem,3,0,No,,Regular
+457,Theo 2,Psychology of Christian Personality,SOCSCI,II,2nd Sem,3,0,No,,Regular
+458,Ed/MST 6,Assessment of Student Learnig 1,SOCSCI,II,2nd Sem,3,0,Yes,Ed/MST 3,Regular
+459,Ed/MST 2,Educational Technology 2,SOCSCI,II,2nd Sem,3,0,No,Ed/MST 1,Regular
+460,Ed/FS 3,FS3-Technology in the Learning Environment,SOCSCI,II,2nd Sem,1,0,Yes,,Field Study
+461,Ed/MST 3,Curriculum Development,SOCSCI,II,2nd Sem,3,0,Yes,Ed/MST 5,Regular
+462,Ed/FS 4,FS 4 - Exploring the Curriculum,SOCSCI,II,2nd Sem,1,0,Yes,,Field Study
+463,SPE SS 6,Micro-Macro Economics,SOCSCI,II,2nd Sem,3,0,No,SPE SS  5,Regular
+464,SPE SS 7,World History & Civilization 2,SOCSCI,II,2nd Sem,3,0,No,SPE SS  4,Regular
+465,SPE SS 8,Comparative Goverment and Politics,SOCSCI,II,2nd Sem,3,0,Yes,SPE SS 5,Regular
+466,PE 4,Recreational Activities,SOCSCI,II,2nd Sem,2,0,No,,Regular
+467,Lit 1,Philippine Literature,SOCSCI,III,1st Sem,3,0,No,,Regular
+468,Hum 2,Intro to Philosophy & Ethics (SS2),SOCSCI,III,1st Sem,3,0,No,,Regular
+469,FundRes,Fundamentals of Research,SOCSCI,III,1st Sem,3,0,No,,Regular
+470,Ed/SPT 1,Spl Tpic (Use of PopILAR Media in Tech),SOCSCI,III,1st Sem,1,0,No,,Regular
+471,Ed/MST 7,Assessment of Student Learnign 2,SOCSCI,III,1st Sem,3,0,No,Ed/MST 6,Regular
+472,Ed/FS 5,FS  5-Learning Assessment Strategies,SOCSCI,III,1st Sem,1,0,Yes,,Field Study
+473,SPE SS 9,Scientific Research & Critical Thinking,SOCSCI,III,1st Sem,3,0,No,SPE SS 8,Regular
+474,SPE  SS 10,Asian Studies,SOCSCI,III,1st Sem,3,0,No,SPE SS 8,Regular
+475,SPE SS 11,Research in Social Studies,SOCSCI,III,1st Sem,3,0,No,SPE SS 8,Regular
+476,SPE SS 12,Production of Social Studies Inst. Mat.,SOCSCI,III,1st Sem,3,0,No,SPE SS 8,Regular
+477,Lit 2,World Literature,SOCSCI,III,2nd Sem,3,0,No,,Regular
+478,SS5,"Rizal's Life, Work & Writings",SOCSCI,III,2nd Sem,3,0,No,,Regular
+479,Ed/SPT 2,Specialtopic 2 (Environment Education),SOCSCI,III,2nd Sem,1,0,No,,Regular
+480,Ed/MST 8 ,Development Reading 1,SOCSCI,III,2nd Sem,3,0,No,3rd yr standing,Regular
+481,Ed/TC 3,The Teaching Profession,SOCSCI,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+482,Ed/FS 6, FS 6 - On Becoming Solving,SOCSCI,III,2nd Sem,1,0,Yes,,Field Study
+483,SPE SS 13,Economic Planning and Strategy,SOCSCI,III,2nd Sem,3,0,No,SPE SS 12,Regular
+484,SPE SS 14,Building Bridges Across Soc Sci Disciplines,SOCSCI,III,2nd Sem,3,0,No,3rd yr standing,Regular
+485,SPE SS 15,Law Related Studies,SOCSCI,III,2nd Sem,3,0,No,3rd yr standing,Regular
+486,SPE SS 16,Socio-Cultural Anthropology,SOCSCI,III,2nd Sem,3,0,Yes,3rd yr standing,Regular
+487,SS3,Prin. Of Eco. w/ Agrarian Reform & Tax,SOCSCI,IV,1st Sem,3,0,No,,Regular
+488,SS6,"Current Issues (w/HIV,AIDS,SARS, Gender & Peace Education)",SOCSCI,IV,1st Sem,3,0,No,,Regular
+489,Eng 21A,English for Specific Purpose (Call Center),SOCSCI,IV,1st Sem,3,0,No,,Regular
+490,Ed/SPT 3,Special Topic 3 (Collaborative Learning),SOCSCI,IV,1st Sem,1,0,No,,Regular
+491,SS4,"Sociology & Family Planning (w/ Population, Drug Addiction, Volunteerism & Anti-Smoking)",SOCSCI,IV,1st Sem,3,0,No,,Regular
+492,SPE SS 17,Assessment & Evaluation in Soc Sci,SOCSCI,IV,1st Sem,3,0,No,SPE SS 16,Regular
+493,SPE SS 18,Trends & Issues in Soc Sci,SOCSCI,IV,1st Sem,3,0,No,4th yr Standing,Regular
+494,SPE SS 19,Contempory History of the Philippines,SOCSCI,IV,1st Sem,3,0,No,4th yr Standing,Regular
+495,SPE SS 20,Independent Reading in History,SOCSCI,IV,1st Sem,3,0,No,4th yr Standing,Regular
+496,Ed/Teach,Practice Teaching,SOCSCI,IV,2nd Sem,6,0,No,FS 1 - 6,Practicum
+497,Eng 0,English Plus,BEED,I,1st Sem,3,0,No,,Regular
+498,Eng 1,Study & Thinking Skills,BEED,I,1st Sem,3,0,Yes,,Regular
+499,Fil 1,Komunikasyon sa Akademyang Filipino,BEED,I,1st Sem,3,0,Yes,,Regular
+500,Math 1,Fundamentals of Math,BEED,I,1st Sem,3,0,Yes,,Regular
+501,Sci 1,Biological Science,BEED,I,1st Sem,3,0,Yes,,Regular
+502,Psy 1,General Psychology,BEED,I,1st Sem,3,0,Yes,,Regular
+503,SS 1A,Phil.History Roots & Dev't,BEED,I,1st Sem,3,0,No,,Regular
+504,Hum 1,Intro to Arts,BEED,I,1st Sem,3,0,No,,Regular
+505,PE 1,Physical Fitness,BEED,I,1st Sem,2,0,No,,Regular
+506,NSTP 1,Civil Welfare Service Training 1,BEED,I,1st Sem,3,0,No,,Regular
+507,ICT,Information Communication Technology,BEED,I,2nd Sem,3,0,No,,Regular
+508,Eng 2,Development Basic Research & Writing Skills ,BEED,I,2nd Sem,3,0,Yes,Eng 1,Regular
+509,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,BEED,I,2nd Sem,3,0,Yes,Fil 1,Regular
+510,Math 2,Contemporary Mathematics,BEED,I,2nd Sem,3,0,Yes,Math 1,Regular
+511,Sci 2,Earth Science,BEED,I,2nd Sem,3,0,Yes,Sci 1,Regular
+512,Ed/TC 1,Child & Adolescent Development,BEED,I,2nd Sem,3,0,Yes,Psy 1,Regular
+513,CC/SS 1,Basic Geography,BEED,I,2nd Sem,3,0,Yes,,Regular
+514,CC/VaEd1,Personal Geography,BEED,I,2nd Sem,3,0,No,,Regular
+515,PE 2,Prin. Of Eco. w/ Agrarian reform & Tax,BEED,I,2nd Sem,2,0,Yes,,Regular
+516,NSTP 2,Civil Welfare Service Training 2,BEED,I,2nd Sem,3,0,No,,Regular
+517,Ed/MST 1,Educational Technology 1,BEED,I,Summer,3,0,No,,Regular
+518,Ed/TC 4,Social Dimensions of Education,BEED,I,Summer,3,0,No,Ed/TC 1,Regular
+519,Ed/MST 4,Principles of Teaching 1,BEED,I,Summer,3,0,Yes,,Regular
+520,Eng 3,Speech &Oral communication,BEED,II,1st Sem,3,0,Yes,Eng 2,Regular
+521,Fil 3,Masining na Pagpapahayag,BEED,II,1st Sem,3,0,Yes,Fil 2,Regular
+522,Theo 1,Salvation History,BEED,II,1st Sem,3,0,No,,Regular
+523,Ed/TC 2,Facilitating and Learning,BEED,II,1st Sem,3,0,Yes,Ed/TC 1,Regular
+524,Ed/FS 1,FS 1-Learner's Development & Environment,BEED,II,1st Sem,1,0,Yes,,Field Study
+525,Ed/MST 5,Principles of Teaching 2,BEED,II,1st Sem,3,0,No,Ed/MST 4,Regular
+526,Ed/FS 2,FS 2-Experiencing the Teaching & Learning Process,BEED,II,1st Sem,1,0,Yes,,Field Study
+527,CC/Math 1,Advance Algebra w/ Trigonometry,BEED,II,1st Sem,3,0,Yes,Math 2,Regular
+528,CC/MAPEH,Music/Art/PE & Health Education,BEED,II,1st Sem,3,0,No,2nd Yr. Standing,Regular
+529,CC/SS 2,Building Bridges Across SS Disciplines,BEED,II,1st Sem,3,0,No,CC/SS 1,Regular
+530,PE 3,Individual & Dual Games & Sports,BEED,II,1st Sem,2,0,No,PE 2,Regular
+531,SS1,Philippine Government & New Consutation,BEED,II,2nd Sem,3,0,No,,Regular
+532,Theo 2,Psychology of Christian Personality,BEED,II,2nd Sem,3,0,No,,Regular
+533,Ed/MST 6,Assessment of Student Learning 1,BEED,II,2nd Sem,3,0,Yes,Ed/MST 3,Regular
+534,Ed/MST 2,Educational Technology 2,BEED,II,2nd Sem,3,0,Yes,Ed/MST 1,Regular
+535,Ed/FS 3,FS 3-Technology in the Learning Environment,BEED,II,2nd Sem,1,0,Yes,,Field Study
+536,Ed/MST 3,Curriculum Development,BEED,II,2nd Sem,3,0,Yes,Ed/MST 5,Regular
+537,Ed/FS 4,FS 4-Exploring the Curriculum,BEED,II,2nd Sem,1,0,Yes,,Field Study
+538,CC/Math 2,Plain & Solid Geometry,BEED,II,2nd Sem,3,0,Yes,CC/Math 1,Regular
+539,CC/Sci 3,Inorganic Chemistry,BEED,II,2nd Sem,3,0,No,Sci 2,Regular
+540,CC/Sci 4,Physics,BEED,II,2nd Sem,3,0,No,Math 2,Regular
+541,PE 4,Recreational Activities,BEED,II,2nd Sem,2,0,Yes,,Regular
+542,Lit1,Philippine Literature,BEED,III,1st Sem,3,0,No,,Regular
+543,Hum 2,Intro to Philosophy & Ethics (SS2),BEED,III,1st Sem,3,0,No,,Regular
+544,FundRes,Fundamentals of Reasearch,BEED,III,1st Sem,3,0,No,,Regular
+545,Ed/SPT 1,Spl Topic 1(Use of Popular Media in Teach),BEED,III,1st Sem,1,0,No,,Regular
+546,Ed/MST 7,Assessment of Student Learning 2,BEED,III,1st Sem,3,0,No,Ed/MST 6,Regular
+547,Ed/FS 5,FS 5 - Learning Assessment Strategies,BEED,III,1st Sem,1,0,No,,Field Study
+548,CC/Math 3,Analytic Geometry,BEED,III,1st Sem,3,0,Yes,CC/Math 2,Regular
+549,CC/Sci 5,Ecology,BEED,III,1st Sem,3,0,Yes,CC/Sci 4,Regular
+550,CC/Eng 4,Basic English Grammar,BEED,III,1st Sem,3,0,Yes,Eng 3,Regular
+551,CC/Fil 4,Ang Panitikan ng Pilipinas,BEED,III,1st Sem,3,0,No,Fil 3,Regular
+552,Lit 2,World Literature,BEED,III,2nd Sem,3,0,No,,Regular
+553,SS5,"Rizal's Life, Works & Writings",BEED,III,2nd Sem,3,0,No,,Regular
+554,Ed/SPT 2,Special Topic 2(Environmental Education),BEED,III,2nd Sem,1,0,No,,Regular
+555,Ed/MST 8,Developmental Reading 1,BEED,III,2nd Sem,3,0,Yes,3rd yr stand,Regular
+556,Ed/TC 3,The Teaching Profession,BEED,III,2nd Sem,3,0,No,Ed/TC 2,Regular
+557,Ed/FS 6,FS 6-On Becoming a Teacher,BEED,III,2nd Sem,1,0,No,,Field Study
+558,CC/Math 4,Problem Solving,BEED,III,2nd Sem,3,0,No,CC/Math 3,Regular
+559,CC/Sci 6,Astronomy,BEED,III,2nd Sem,3,0,No,CC/Sci 5,Regular
+560,CC/Eng 5,Basic Reading Skills,BEED,III,2nd Sem,3,0,Yes,CC/Eng 4,Regular
+561,CC/Fil 5,Mga Anyo ng Kontemporaryong Panitikang Filipino,BEED,III,2nd Sem,2,0,No,,Regular
+562,SS3,Prin. Of Eco. w/ Agrarian Redorm & Tax,BEED,IV,1st Sem,3,0,No,,Regular
+563,SS 6,"Current Issue (HIV-AIDS-SARS, Gender & Pece Ed.)",BEED,IV,1st Sem,3,0,No,,Regular
+564,Eng 21A,English for Specific Purpose(Call center),BEED,IV,1st Sem,3,0,No,,Regular
+565,Ed/SPT 3,Special Topic 3(Collaborative Learning),BEED,IV,1st Sem,1,0,No,,Regular
+566,SS 4,"Sociology & Family Planningn (w/ Population Drug Addiction,Voluntareesm & Anti-Smoking",BEED,IV,1st Sem,3,0,No,,Regular
+567,Ed/MST 8B,Developmental Reading 2,BEED,IV,1st Sem,3,0,No,Ed/MST 8,Regular
+568,CC/Eng 6,Basic Writing Skills,BEED,IV,1st Sem,3,0,No,CC/Eng 5,Regular
+569,CC/Eng 7,Learning & Speaking English,BEED,IV,1st Sem,3,0,No,CC/Eng5,Regular
+570,CC/HELE,Home Economics & Livelihood Education,BEED,IV,1st Sem,3,0,No,CC/MAPEH,Regular
+571,Ed/P. Teach,Practice Teaching,BEED,IV,2nd Sem,6,0,No,FS 1-6,Practicum
+572,Eng 0,English Plus,HRM,I,1st Sem,3,0,No,,Regular
+573,Eng 1,Study & Thinking Skills,HRM,I,1st Sem,3,0,No,,Regular
+574,Fil 1,Komunikasyon sa Akademikong Filipino,HRM,I,1st Sem,3,0,No,,Regular
+575,Theo 1,Salvation History,HRM,I,1st Sem,3,0,No,,Regular
+576,Tour 101,Principles of tourism,HRM,I,1st Sem,3,0,No,,Regular
+577,FN 100,"Prin. Of Safety,Hygiene & Sanitation",HRM,I,1st Sem,3,0,No,,Regular
+578,HRM 102,Housekeeping Procedure,HRM,I,1st Sem,3,0,No,,Regular
+579,FN 101-1,Meal Mgt.,HRM,I,1st Sem,3,0,No,,Regular
+580,PE 1,Physical Fitness,HRM,I,1st Sem,2,0,No,,Regular
+581,NSTP 1,Civil Welfare Service Training 1,HRM,I,1st Sem,3,0,No,,Regular
+582,Math 1C,Business Math,HRM,I,2nd Sem,3,0,No,,Regular
+583,Eng 2,Communication Arts II,HRM,I,2nd Sem,3,0,No,,Regular
+584,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,HRM,I,2nd Sem,3,0,No,,Regular
+585,Psy 1,General Psychology,HRM,I,2nd Sem,3,0,No,,Regular
+586,Tour 102,Principles of tourism 2,HRM,I,2nd Sem,3,0,No,,Regular
+587,FN 101,*Culnary Arts*Science (CC),HRM,I,2nd Sem,3,0,No,,Regular
+588,SS1 B,Phil.History w/ Govt & Constitution,HRM,I,2nd Sem,3,0,No,,Regular
+589,HRM 104,*F & Service Production,HRM,I,2nd Sem,3,0,No,,Regular
+590,PE 2,Fundamentals of Rhythmic Activity,HRM,I,2nd Sem,2,0,No,,Regular
+591,NSTP 2,Civil Welfare Service Training 2,HRM,I,2nd Sem,3,0,No,,Regular
+592,Eng 3,Speech and Oral Communication,HRM,II,1st Sem,3,0,No,,Regular
+593,HRM 101,Front Office Procedure,HRM,II,1st Sem,3,0,No,,Regular
+594,HRM 103,Rms Div Mgt & Ctr,HRM,II,1st Sem,3,0,No,,Regular
+595,TOUR 110,Tour Planning & Dev't,HRM,II,1st Sem,3,0,No,,Regular
+596,Eng 4b,Business Communication,HRM,II,1st Sem,3,0,No,,Regular
+597,SS5,"Rizal's Life, Works & Writings",HRM,II,1st Sem,3,0,No,,Regular
+598,HRM 104-1,Bartending & Wine Making,HRM,II,1st Sem,3,0,No,,Regular
+599,Mgt 1,Principles of Management,HRM,II,1st Sem,3,0,No,,Regular
+600,PE 3,Individual & Dual Games Sports,HRM,II,1st Sem,2,0,No,,Regular
+601,FN-101-2,Bread & Pastry Production,HRM,II,2nd Sem,3,0,No,,Regular
+602,HRM 108,Purchasing Management,HRM,II,2nd Sem,3,0,No,,Regular
+603,HRM 107,Quantity Food Production,HRM,II,2nd Sem,3,0,No,,Regular
+604,Mgt. 2,Human Behavior Mgt.,HRM,II,2nd Sem,3,0,No,,Regular
+605,CompEd,Business Computer,HRM,II,2nd Sem,3,1,No,,With Lab
+606,Theo 2,Psy. Of Christian Personality,HRM,II,2nd Sem,3,0,No,,Regular
+607,PE 4,Basic Elementary First Aid,HRM,II,2nd Sem,2,0,No,,Regular
+608,HRM 105,Banqt & Catering Services,HRM,III,1st Sem,3,0,No,,Regular
+609,FN 120,Nutrition for HR,HRM,III,1st Sem,3,0,No,,Regular
+610,Eco 1,Basic Economics,HRM,III,1st Sem,3,0,No,,Regular
+611,Fin 1,Basic Finance,HRM,III,1st Sem,3,0,No,,Regular
+612,Mktg. 1,Principles of Marketing,HRM,III,1st Sem,3,0,No,,Regular
+613,Sci. 1,Biological Science,HRM,III,1st Sem,3,0,No,,Regular
+614,Math 3,Business Statistics,HRM,III,1st Sem,3,0,No,,Regular
+615,HRM 106,Cost Control & Analysis,HRM,III,2nd Sem,3,0,No,,Regular
+616,HRM 109,International Cuisine,HRM,III,2nd Sem,3,0,No,,Regular
+617,HRM 110,"Facilities, Planning & Design",HRM,III,2nd Sem,3,0,No,,Regular
+618,HRM 112,Hosp & Human Res Dev't,HRM,III,2nd Sem,3,0,No,,Regular
+619,Mgt. 4,Total Quality Management,HRM,III,2nd Sem,3,0,No,,Regular
+620,Lit. 1,Philippine Literature,HRM,III,2nd Sem,3,0,No,,Regular
+621,Accttng 1,Basic Accounting,HRM,III,2nd Sem,3,0,No,,Regular
+622,Sci. 2,Earth Science,HRM,III,2nd Sem,3,0,No,,Regular
+623,SS 1B,Cultural Anthropology,HRM,IV,1st Sem,3,0,No,,Regular
+624,Philo 1,Logic,HRM,IV,1st Sem,3,0,No,,Regular
+625,Mgt. 130,Entrep & Business Planning,HRM,IV,1st Sem,3,0,No,,Regular
+626,MIS,Management Information System,HRM,IV,1st Sem,3,0,No,,Regular
+627,Hum 1,Intro to Arts,HRM,IV,1st Sem,3,0,No,,Regular
+628,Eng 5,Methods of Research,HRM,IV,1st Sem,3,0,No,,Regular
+629,Tour 104,Event Management,HRM,IV,1st Sem,3,0,No,,Regular
+630,HRM 141,Prac-Hotel Phase(250 hrs),HRM,IV,2nd Sem,5,0,No,,OJT
+631,HRM 142,Prac-Rest Phase(200 hrs),HRM,IV,2nd Sem,4,0,No,,OJT
+632,Eng 0,English Plus,BSBA,I,1st Sem,3,0,No,,Regular
+633,Eng 1,Study & Thinking Skills,BSBA,I,1st Sem,3,0,Yes,,Regular
+634,Fil 1,Komunikasyon sa Akademikong Filipino,BSBA,I,1st Sem,3,0,No,,Regular
+635,Acctg 1a,Fundamentals of Accounting 1,BSBA,I,1st Sem,6,0,Yes,,Regular
+636,Mgt 1,Principles of Management,BSBA,I,1st Sem,3,0,Yes,,Regular
+637,Math 1C,Business Math,BSBA,I,1st Sem,3,0,No,,Regular
+638,PE 1,Physical Fitness,BSBA,I,1st Sem,2,0,Yes,,Regular
+639,NSTP 1,Civil Welfare Service Training 1,BSBA,I,1st Sem,3,0,Yes,,Regular
+640,Mktg1,Principles of Marketing,BSBA,I,2nd Sem,3,0,No,,Regular
+641,Eng 2,Development Basic Research & Writing Skills ,BSBA,I,2nd Sem,3,0,No,Eng 1,Regular
+642,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,BSBA,I,2nd Sem,3,0,No,Fil 1,Regular
+643,Acctg 2,Partnership & Corporation,BSBA,I,2nd Sem,6,0,No,Acctg 1,Regular
+644,Mtg 2,Human Relation in Organization,BSBA,I,2nd Sem,3,0,Yes,Mtg 1,Regular
+645,SS3,Prin. Of Eco. w/ Agrarian reform & Tax,BSBA,I,2nd Sem,3,0,Yes,,Regular
+646,PE 2,Prin. Of Eco. w/ Agrarian reform & Tax,BSBA,I,2nd Sem,2,0,Yes,PE 1,Regular
+647,NSTP 2,Civil Welfare Service Training 2,BSBA,I,2nd Sem,3,0,No,NSTP 1,Regular
+648,Eng 3,Speech &Oral communication,BSBA,II,1st Sem,3,0,Yes,Eng 2,Regular
+649,Math 1B,College Algebra,BSBA,II,1st Sem,3,0,Yes,,Regular
+650,Comp 1,Intro to Information Technology,BSBA,II,1st Sem,3,1,Yes,2nd Yr. Standing,With Lab
+651,Eco 2a,Microeconomics,BSBA,II,1st Sem,3,0,No,SS 3,Regular
+652,Mgt2a,Intro to Human Resource Management,BSBA,II,1st Sem,3,0,No,Mgt.2,Regular
+653,Fin 1,Basic Finannce,BSBA,II,1st Sem,3,0,Yes,2nd Yr. Standing,Regular
+654,Acctg 3,Intro to Management Advisory Services,BSBA,II,1st Sem,3,0,No,2nd Yr. Standing,Regular
+655,Sci 1,Biological Science,BSBA,II,1st Sem,3,0,No,2nd Yr. Standing,Regular
+656,PE 3,Individual & Dual Games & Sports,BSBA,II,1st Sem,2,0,No,PE 2,Regular
+657,Eng 4,Business Communication,BSBA,II,2nd Sem,3,0,No,Eng 3,Regular
+658,SS1 A,Phil. History w/ Govt & New Constitution,BSBA,II,2nd Sem,3,0,No,,Regular
+659,Comp2,Business Computer Application,BSBA,II,2nd Sem,3,1,No,Comp 1,With Lab
+660,Lit 1,Philippine Literature,BSBA,II,2nd Sem,3,0,No,,Regular
+661,Fin2,Business Finance,BSBA,II,2nd Sem,3,0,No,Fin 1,Regular
+662,Math2B,Mathematics of  Investment,BSBA,II,2nd Sem,3,0,Yes,Math 1B,Regular
+663,Philo 1,Philosophy w/ Logic Critical Thinking,BSBA,II,2nd Sem,3,0,No,,Regular
+664,Sci 2,Earth Science,BSBA,II,2nd Sem,3,0,No,Sci 1,Regular
+665,PE 4,Recreational Activities,BSBA,II,2nd Sem,2,0,No,PE 3,Regular
+666,Psy1,General Psychology,BSBA,III,1st Sem,3,0,No,,Regular
+667,FM 3,Monetory Policy & Central Banking,BSBA,III,1st Sem,3,0,Yes,FM1,Regular
+668,Theo 2,Psychology of Christian Personality,BSBA,III,1st Sem,3,0,No,Theo1,Regular
+669,Tax 2,Business & Transfer Tax,BSBA,III,1st Sem,3,0,No,Tax 1,Regular
+670,FM 4,Investment & Portfolio Management,BSBA,III,1st Sem,3,0,No,FM3,Regular
+671,FME 2,Public Finance,BSBA,III,1st Sem,3,0,No,FME 1,Regular
+672,FME 3,Behavioral Finance,BSBA,III,1st Sem,3,0,No,FME 1,Regular
+673,Mgt 4,Total Quality Management,BSBA,III,1st Sem,3,0,No,3rd Yr. Standing,Regular
+674,SS 5,"Rizal's Life, Work & Writings",BSBA,III,1st Sem,3,0,No,,Regular
+675,Math 3,Business Statistics,BSBA,III,2nd Sem,3,0,No,Math 2B,Regular
+676,SS4,Sociology & Family Planning,BSBA,III,2nd Sem,3,0,No,,Regular
+677,Theo 1,Salvation Taxation,BSBA,III,2nd Sem,3,0,No,,Regular
+678,Tax 1,Income Tacation,BSBA,III,2nd Sem,3,0,No,3rd Yr. Standing,Regular
+679,FM 1,Financial Management,BSBA,III,2nd Sem,3,0,No,Fin1,Regular
+680,FM 2,Banking & Financial Institution,BSBA,III,2nd Sem,3,0,No,,Regular
+681,FME 1,Global w/ Electronic Banking,BSBA,III,2nd Sem,3,0,No,Fin 1,Regular
+682,Mgt 3,Social Responsibility & Good Governance,BSBA,III,2nd Sem,3,0,No,Mgt2,Regular
+683,Eng 21A,English for Specific Purpose (Call Center),BSBA,III,2nd Sem,2,0,No,,Regular
+684,PRAC,Pracicum/Work Integrated Learning(300hrs),BSBA,III,Summer,6,0,No,,Regular
+685,BL 1,Obligation and Contract,BSBA,IV,1st Sem,3,0,No,,Regular
+686,FM 5,Capital Market Management,BSBA,IV,1st Sem,3,0,No,,Regular
+687,FM 6,Credit & Collection,BSBA,IV,1st Sem,3,0,No,,Regular
+688,FM 7,Strategic Financial Management,BSBA,IV,1st Sem,3,0,No,,Regular
+689,FME 4-1,Feasibility Study/Consultancy 1,BSBA,IV,1st Sem,3,0,No,,Regular
+690,FME 5,Risk Management,BSBA,IV,1st Sem,3,0,No,,Regular
+691,SS 6,Current Issue (HIV-AIDS-SARS/Drug) Education/Pece Education,BSBA,IV,1st Sem,3,0,No,,Regular
+692,BL 2,Law on Business Organization,BSBA,IV,2nd Sem,3,0,No,,Regular
+693,FM 8,Financial Analysis Reporting,BSBA,IV,2nd Sem,3,0,No,,Regular
+694,FME 6,Enterpreneur Management,BSBA,IV,2nd Sem,3,0,No,,Regular
+695,FME 7,Franchising,BSBA,IV,2nd Sem,3,0,No,,Regular
+696,FME 4-2,Feasibility Study/Consultancy 2,BSBA,IV,2nd Sem,3,0,No,,Regular
+697,Mgt 5,Production and Operation Management,BSBA,IV,2nd Sem,3,0,No,,Regular

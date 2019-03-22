@@ -1,0 +1,63 @@
+#content {
+    padding-bottom: 50px;
+    background: rgba(223, 222, 222, 0.788);
+}
+
+.logout {
+    float: right;
+    margin-top: -40px;
+}
+
+.header {
+    display: block;
+    font-family: arial;
+    height: 50px !important;
+    font-weight: 100;
+}
+
+.dash-card {
+    background: rgb(2, 78, 241) !important;
+}
+
+.dash-card-text {
+    padding-left: 25px;
+    padding-top: 1px;
+    font-family: impact;
+    font-weight: 300;
+    color: white;
+    text-shadow: 1px 1px 1px #333;
+}
+
+.dash-badge {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.course-card {
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.course-card h1,
+.course-card h3 {
+    text-align: center;
+}
+
+.course-card h3 {
+    margin-top: -25px;
+}
+
+.pad-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.w3-ul {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.w3-ul .w3-badge {
+    float: right;
+}

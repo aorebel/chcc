@@ -1,0 +1,66 @@
+698,Eng 0,English Plus,BA,I,1st Sem,3,0,No,0,Regular
+699,Eng 1,Study & Thinking Skills,BA,I,1st Sem,3,0,Yes,0,Regular
+700,Fil 1,Komunikasyon sa Akademyang Filipino,BA,I,1st Sem,3,0,Yes,0,Regular
+701,Acctg 1a,Fundamentals of Accouning 1,BA,I,1st Sem,6,0,Yes,0,Regular
+702,Mgt 1,Principles of Management,BA,I,1st Sem,3,0,Yes,0,Regular
+703,Math 1c,Business Math,BA,I,1st Sem,3,0,Yes,0,Regular
+704,PE 1,Physical Fitness,BA,I,1st Sem,2,0,No,0,Regular
+705,NSTP 1,Civil Welfare Service Training 1,BA,I,1st Sem,3,0,No,0,Regular
+706,Mktg1,Principles of Marketing,BA,I,2nd Sem,3,0,No,0,Regular
+707,Eng 2,Development Basic Research & Writing Skills ,BA,I,2nd Sem,3,0,No,Eng 1,Regular
+708,Fil 2,Pagbasa't Pagsulat sa Komunikasyon,BA,I,2nd Sem,3,0,No,Fil 1,Regular
+709,Acctg 2,Partnership & Corporation,BA,I,2nd Sem,6,0,Yes,Acctg 1,Regular
+710,Mtg 2,Human Relation in Organization,BA,I,2nd Sem,3,0,Yes,Mtg 1,Regular
+711,SS3,Prin. Of Eco. w/ Agrarian reform & Tax,BA,I,2nd Sem,3,0,No,0,Regular
+712,PE 2,Prin. Of Eco. w/ Agrarian reform & Tax,BA,I,2nd Sem,2,0,No,PE 1,Regular
+713,NSTP 2,Civil Welfare Service Training 2,BA,I,2nd Sem,3,0,Yes,NSTP 1,Regular
+714,Eng 3,Speech &Oral communication,BA,II,1st Sem,3,0,Yes,Eng 2,Regular
+715,Math 1B,College Algebra,BA,II,1st Sem,3,0,No,0,Regular
+716,Comp 1,Intro to Information Technology,BA,II,1st Sem,2,1,No,2nd Yr. Standing,With Lab
+717,Eco 2a,Microeconomics,BA,II,1st Sem,3,0,No,SS 3,Regular
+718,Mgt2a,Intro to Human Resource Management,BA,II,1st Sem,3,0,No,Mgt.2,Regular
+719,Fin 1,Basic Finannce,BA,II,1st Sem,3,0,No,2nd Yr. Standing,Regular
+720,Acctg 3,Intro to Management Advisory Services,BA,II,1st Sem,3,0,Yes,2nd Yr. Standing,Regular
+721,Sci 1,Biological Science,BA,II,1st Sem,3,0,No,2nd Yr. Standing,Regular
+722,PE 3,Individual & Dual Games & Sports,BA,II,1st Sem,2,0,No,PE 2,Regular
+723,Eng 4,Business Communication,BA,II,2nd Sem,3,0,No,Eng 3,Regular
+724,SS1 A,Phil. History w/ Govt & New Constitution,BA,II,2nd Sem,3,0,No,0,Regular
+725,Comp2,Business Computer Application,BA,II,2nd Sem,1,1,No,Comp 1,With Lab
+726,Lit 1,Philippine Literature,BA,II,2nd Sem,3,0,No,0,Regular
+727,Fin2,Business Finance,BA,II,2nd Sem,1,0,No,Fin 1,Regular
+728,Math2B,Mathematics of  Investment,BA,II,2nd Sem,3,0,No,Math 1B,Regular
+729,Philo 1,Philosophy w/ Logic Critical Thinking,BA,II,2nd Sem,3,0,No,0,Regular
+730,Sci 2,Earth Science,BA,II,2nd Sem,3,0,No,Sci 1,Regular
+731,PE 4,Recreational Activities,BA,II,2nd Sem,2,0,No,PE 3,Regular
+732,Psy1,General Psychology,BA,III,1st Sem,3,0,No,0,Regular
+733,FM 3,Monetory Policy & Central Banking,BA,III,1st Sem,3,0,No,FM1,Regular
+734,Theo 2,Psychology of Christian Personality,BA,III,1st Sem,3,0,No,Theo1,Regular
+735,Tax 2,Business & Transfer Tax,BA,III,1st Sem,3,0,No,Tax 1,Regular
+736,FM 4,Investment & Portfolio Management,BA,III,1st Sem,3,0,No,FM3,Regular
+737,FME 2,Public Finance,BA,III,1st Sem,3,0,No,FME 1,Regular
+738,FME 3,Behavioral Finance,BA,III,1st Sem,3,0,No,FME 1,Regular
+739,Mgt 4,Total Quality Management,BA,III,1st Sem,3,0,No,3rd Yr. Standing,Regular
+740,SS 5,"Rizal's Life, Work & Writings",BA,III,1st Sem,3,0,No,0,Regular
+741,Math 3,Business Statistics,BA,III,2nd Sem,3,0,No,Math 2B,Regular
+742,SS4,Sociology & Family Planning,BA,III,2nd Sem,3,0,No,0,Regular
+743,Theo 1,Salvation Taxation,BA,III,2nd Sem,3,0,No,0,Regular
+744,Tax 1,Income Tacation,BA,III,2nd Sem,3,0,No,3rd Yr. Standing,Regular
+745,FM 1,Financial Management,BA,III,2nd Sem,3,0,No,Fin1,Regular
+746,FM 2,Banking & Financial Institution,BA,III,2nd Sem,3,0,No,0,Regular
+747,FME 1,Global w/ Electronic Banking,BA,III,2nd Sem,3,0,No,Fin 1,Regular
+748,Mgt 3,Social Responsibility & Good Governance,BA,III,2nd Sem,3,0,No,Mgt2,Regular
+749,Eng 21A,English for Specific Purpose (Call Center),BA,III,2nd Sem,3,0,No,0,Regular
+750,PRAC,Pracicum/Work Integrated Learning(300hrs),BA,III,Summer,6,0,No,0,Regular
+751,BL 1,Obligation and Contract,BA,IV,1st Sem,3,0,No,0,Regular
+752,FM 5,Capital Market Management,BA,IV,1st Sem,3,0,No,0,Regular
+753,FM 6,Credit & Collection,BA,IV,1st Sem,3,0,No,0,Regular
+754,FM 7,Strategic Financial Management,BA,IV,1st Sem,3,0,No,0,Regular
+755,FME 4-1,Feasibility Study/Consultancy 1,BA,IV,1st Sem,3,0,No,0,Regular
+756,FME 5,Risk Management,BA,IV,1st Sem,3,0,No,0,Regular
+757,SS 6,Current Issue (HIV-AIDS-SARS/Drug) Education/Pece Education,BA,IV,1st Sem,3,0,No,0,Regular
+758,BL 2,Law on Business Organization,BA,IV,2nd Sem,3,0,No,0,Regular
+759,FM 8,Financial Analysis Reporting,BA,IV,2nd Sem,3,0,No,0,Regular
+760,FME 6,Enterpreneur Management,BA,IV,2nd Sem,3,0,No,0,Regular
+761,FME 7,Franchising,BA,IV,2nd Sem,3,0,No,0,Regular
+762,FME 4-2,Feasibility Study/Consultancy 2,BA,IV,2nd Sem,3,0,No,0,Regular
+763,Mgt 5,Production and Operation Management,BA,IV,2nd Sem,3,0,No,0,Regular

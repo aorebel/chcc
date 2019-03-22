@@ -1,0 +1,66 @@
+header {
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin: 0 !important;
+}
+
+#nav,
+.brandname {
+    height: 75px;
+    border: none;
+}
+
+ul.nav {
+    float: right;
+    list-style-type: none;
+}
+
+.nav li {
+    float: left;
+    margin-right: 20px;
+    line-height: 50px;
+}
+
+.nav li a {
+    text-decoration: none;
+}
+
+.mySlides {
+    position: inherit;
+    height: 500px;
+}
+
+.slider {
+    padding: 15px;
+}
+
+.slide-arrow {
+    margin-top: -50px;
+}
+
+.login {
+    margin-top: -15px;
+}
+
+.login form {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+#courses {
+    padding: 75px;
+}
+
+#courses h1 {
+    line-height: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.course {
+    padding: 25px;
+}
