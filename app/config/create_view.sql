@@ -1,0 +1,1 @@
+CREATE VIEW studentProfile AS SELECT students.student_id, lname, fname, mi, bdate, gender, contact, email, emergency_person, emergency_contact, reg_date,course_code, enrollment_date, school_year, section, sem, status, year_level, type, title, dir FROM students, enrollment, picture where students.student_id = enrollment.student_id and students.student_id=picture.user_id;
